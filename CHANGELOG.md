@@ -1,3 +1,7 @@
+## 4.0.10 (2016-10-18)
+- Add zh (from zh-CN)
+- Change zh-TW to zh_TW, pt-BR to pt_BR
+
 ## 4.0.9 (2016-07-05)
 - Update Bosnian (bs)
 - Update Arabic (ar)
