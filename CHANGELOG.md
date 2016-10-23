@@ -1,3 +1,6 @@
+## 4.0.11 (2016-10-23)
+- Add time.formats.date to Qwiklabs locales
+
 ## 4.0.10 (2016-10-18)
 - Add zh (from zh-CN)
 - Change zh-TW to zh_TW, pt-BR to pt_BR
