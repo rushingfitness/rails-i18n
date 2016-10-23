@@ -202,4 +202,5 @@ tr:
       default: "%a %d.%b.%y %H:%M"
       long: "%e %B %Y, %A, %H:%M"
       short: "%e %B, %H:%M"
+      date: "%d.%m.%Y"
     pm: öğleden sonra

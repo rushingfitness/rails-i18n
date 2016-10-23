@@ -191,4 +191,5 @@ ko:
       default: "%Y/%m/%d %H:%M:%S"
       long: "%Y년 %m월 %d일, %H시 %M분 %S초 %Z"
       short: "%y/%m/%d %H:%M"
+      date: "%Y/%m/%d"
     pm: 오후
