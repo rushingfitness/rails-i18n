@@ -1,3 +1,6 @@
+## 4.0.12 (2016-10-31)
+- Change :ru pluralization to one_other
+
 ## 4.0.11 (2016-10-23)
 - Add time.formats.date to Qwiklabs locales
 
